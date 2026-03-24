@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Downloads/assets/app"
+		},
+		{
+			"path": "../../Downloads/assets/constants"
+		},
+		{
+			"path": "../../Downloads/assets/lib"
+		},
+		{
+			"path": "../../Downloads/assets/public"
+		},
+		{
+			"path": "../../Downloads/assets/types"
+		}
+	],
+	"settings": {}
+}
